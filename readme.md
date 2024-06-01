@@ -8,4 +8,4 @@
 
 `npm run start`
 
-### Open http://localhost:3000
+### Open http://localhost:3000 on Postman
